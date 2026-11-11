@@ -1,0 +1,14 @@
+# Nunca se suben al repositorio
+.env
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Bases de datos locales (a partir de la v3)
+*.db
+*.sqlite3

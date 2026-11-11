@@ -1,0 +1,11 @@
+=== /setcommands (pegar tal cual) ===
+start - Presentación de Zancada
+help - Qué puedo hacer
+ritmo - Calcular ritmo: /ritmo 10 52:30
+olvidar - Borrar la conversación
+
+=== /setdescription (lo que se ve antes de tocar INICIAR) ===
+Soy Zancada, tu coach de running 🏃 Contame cómo venís corriendo y te ayudo a armar entrenamientos, elegir ritmos y preparar tu próxima carrera.
+
+=== /setabouttext (perfil del bot) ===
+Coach de running para corredores amateurs.
